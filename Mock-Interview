@@ -1,1 +1,47 @@
+Arrays : The student has basic understanding of the topics but needs to go through topics in depth
 
+Sorting : The student needs to explore the topic was not able to answer questions to the point 
+
+Searching : The student has basic understanding of the topics but needs to go through topics in depth
+
+Hashing : The student needs to explore the topic was not able to answer questions to the point
+
+
+...........................Question...................
+
+What is Array
+[Partially answered]
+
+- Advantages of Array 
+- Disadvantages of Array  
+[Not answered]
+
+- What is difference between Linear & Non Linear data structure? Give few examples?
+- Is Array is a linear data structure? 
+[Partially answered]
+
+- What is a multidimensional array?
+- Implementation of multidimensional array
+- Nested for loop
+[Not answered]
+
+- Can you tell me the differences between Array and Linked list?
+[Partially answered]
+
+-Different searching algorithm. Difference between Linear and binary search
+[Answered]
+
+-Difference between Hashmap and hashset
+[Not answered]
+
+- Calculate the sum of first 50 even numbers 
+[Not Coded]
+
+- Sort an array using bubble sort algorithm
+[Not Coded]
+
+- What are different sorting algorithm. Comparison of them
+[Partially answered]
+
+- Time complexity
+[Answered]
